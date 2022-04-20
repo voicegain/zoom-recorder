@@ -1,2 +1,2 @@
 # zoom-recorder
-Doel local recording of Zoom meetings and submits files for transcription to Voicegain
+Does local recording of Zoom meetings (separate recording for each participant) and submits files for transcription to Voicegain
