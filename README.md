@@ -22,10 +22,22 @@ The image below shows settings suitable to Voicegain Edge service.
 
 When you click Save, the settings will first be tested to see if the necessary Voicegain API requests can be successfully made
 
-# Connecting to a Zoom Meeting 
+# Zoom Meeting Credentials 
 
 Once the test passes you will be switched to a page where you enter Zoom Meeting Id and the Password.
 
 ![Zoom Meeting Recorder](ZMR-1.PNG)
 
 You can enter the Meeting Id and the Password directly, or you can Ctrl+C a Zoom Meeting Join Link, e.g., https://us06web.zoom.us/j/1713580137?pwd=SEdZd017RFdsKztaTlhdWHI2RStTQT09, and it will be automatically pasted into the correct fields on the Zoom Recorder.
+
+# Joining a meeting and enabling recording
+
+Once the meeting parameters have been entered, just click `Join Meeting with ID` to join the meeting.
+
+![Zoom Meeting Recorder](ZMR-3.PNG)
+
+Zoom Recorder will show up in the meeting as one of the participants with name Meeting Recorder.
+
+In order to start the recording the host of the meeting has to give Meeting Recorder permission to Make Local Recordings - it is a right click in the participants list.
+
+![Zoom Meeting Recorder](ZMR-4.PNG)
