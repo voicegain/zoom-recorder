@@ -18,7 +18,7 @@ The image below shows settings suitable to Voicegain Edge service.
 * If it is an Edge install you need to make sure that the Edge checkbox is checked.
 * Finally, you can choose to have local recording files be automatically removed after a successfull submit for transcription.
 
-![Zoom Meeting Recorder](ZMR-2.PNG)
+![Zoom Meeting Recorder](ZMR-2b.PNG)
 
 When you click Save, the settings will first be tested to see if the necessary Voicegain API requests can be successfully made
 
