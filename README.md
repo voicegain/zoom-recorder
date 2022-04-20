@@ -28,4 +28,4 @@ Once the test passes you will be switched to a page where you enter Zoom Meeting
 
 ![Zoom Meeting Recorder](ZMR-1.PNG)
 
-
+You can enter the Meeting Id and the Password directly, or you can Ctrl+C a Zoom Meeting Join Link, e.g., https://us06web.zoom.us/j/1713580137?pwd=SEdZd017RFdsKztaTlhdWHI2RStTQT09, and it will be automatically pasted into the correct fields on the Zoom Recorder.
