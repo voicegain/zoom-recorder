@@ -34,7 +34,7 @@ You can enter the Meeting Id and the Password directly, or you can Ctrl+C a Zoom
 
 Once the meeting parameters have been entered, just click `Join Meeting with ID` to join the meeting.
 
-![Zoom Meeting Recorder waiting](ZMR-3.PNG)
+![Zoom Meeting Recorder waiting](ZMR-3b.PNG)
 
 Zoom Recorder will show up in the meeting as one of the participants with name Meeting Recorder.
 
