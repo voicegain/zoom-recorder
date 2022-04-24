@@ -1,5 +1,5 @@
 # zoom-recorder
-Our Zoom Meeting Recorder does local recording of Zoom meetings (separate recording for each participant) and submits files for transcription to Voicegain. Results of transcription can the be viewed in a Web Console.
+Our Zoom Meeting Recorder does local recording of Zoom meetings (separate recording for each participant) and submits files for transcription to Voicegain. Results of transcription can then be viewed in a Web Console.
 
 ## Install
 
