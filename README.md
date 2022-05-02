@@ -38,7 +38,13 @@ Once the meeting parameters have been entered, just click `Join Meeting with ID`
 
 Zoom Recorder will show up in the meeting as one of the participants with name Meeting Recorder.
 
-In order to start the recording the host of the meeting has to give Meeting Recorder permission to Allow to Record Local Files - it is a right click in the participants list.
+In order to start the recording the host of the meeting has to give Meeting Recorder permission to Allow to Record Local Files.
+
+It can be done either in the main video window via a right click  on the pane with "Meeting Recorder"
+
+![image](https://user-images.githubusercontent.com/52052458/166266456-54c95f97-f94a-4ca2-8a25-590e3e11bbd0.png)
+
+Or via a right click in the participants list.
 
 ![Zoom Meeting Recorder allow to record](ZMR-4.PNG)
 
