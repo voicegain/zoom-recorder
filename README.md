@@ -52,7 +52,7 @@ And that't it. The recording will start and when the meeting ends (or when you c
 
 ## Viewing meetings in Web Console
 
-You will be able to see the recorded Zoom Meetings under the Meetings in the left hand menu.
+You will be able to see the recorded Zoom Meetings under the **Meetings** (not the Transcripts) in the left hand menu.
 
 ![Zoom Meeting Recorder view meetings](ZMR-5-wc.PNG)
 
